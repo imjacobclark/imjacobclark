@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-Hey, I'm Jake. I love solving problems, writing code, building teams and crafting products people love.
+Hey, I'm Jake, a Senior Technical Architect at the [BBC](https://www.bbc.co.uk) working across the Bitesize, CBeebies and CBBC websites, apps and games!
+
+I love solving problems, writing code, building teams and crafting products people love.
 
 I build systems of people and technology. I'm polyglot with a focus on engineering excellence, which means I like to work with the best tools for the job.
 

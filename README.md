@@ -1,4 +1,4 @@
-### Hi there 👋
+### About Me 👋🏻
 
 <!--
 **imjacobclark/imjacobclark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Hey, I'm Jake. I love solving problems, writing code, building teams and crafting products people love.
+
+I build systems of people and technology. I'm polyglot with a focus on engineering excellence, which means I like to work with the best tools for the job.
+
+I'm particulaly fond of JavaScript, Java, Swift, Common Lisp, evolutionary architectures, serverless, test driven development, pair proramming, agile principles, Extreme Programming, Amazon Web Services, systems thinking plus a whole lot more.
+
+I have a strong passion for learning, I often have my head in a book, side project, video course or conference talk...

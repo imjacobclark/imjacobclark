@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-Hey, I'm Jake, a Senior Technical Architect at the [BBC](https://www.bbc.co.uk) working across the [Bitesize](https://www.bbc.co.uk/bitesize), [CBeebies](https://www.bbc.co.uk/cbeebies) and [CBBC](https://www.bbc.co.uk/cbbc) websites, apps and games!
+Hey, I'm Jake, a Senior Technical Architect.
 
 I love solving problems, writing code, building teams and crafting products people love.
 

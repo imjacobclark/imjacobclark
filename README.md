@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello, I'm Jake. A distinguished technology leader in all things digital (web, mobile, cloud, data & games). I'm from Manchester in the UK. Currently working for the UK Government in the Home Office.
+Hello, I'm Jake. A distinguished technology leader in all things digital (web, mobile, cloud, data & games). I'm from Manchester in the UK. Currently working for the AND Digital as a Technical Principal.
 
 I'm a technology leader with a background in software engineering. This background enables me to adapt to a variety of specialisms depending on an organisations needs. I've historically specialised in software engineering, team leadership, cloud engineering, technical architecture and infrastructure engineering. I’m hands on and have a passion for learning and getting things done.
 

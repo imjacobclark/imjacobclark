@@ -15,27 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello, I'm Jake. A distinguished technology leader in all things digital (web, mobile, cloud, data & games). I'm from Manchester in the UK. Currently working for the AND Digital as a Technical Principal.
+Hey, I'm Jake, a Director of Software Engineering with over 11 years of experience in Product Engineering, Data Engineering, and Quality Assurance. My passion is human-focused, situationally-aware leadership with a bias for data-driven action.
 
-I'm a technology leader with a background in software engineering. This background enables me to adapt to a variety of specialisms depending on an organisations needs. I've historically specialised in software engineering, team leadership, cloud engineering, technical architecture and infrastructure engineering. I’m hands on and have a passion for learning and getting things done.
+Alongside my professional career, I have a passion for giving back and serve on the boards of multiple registered charities, where I provide strategic and digital leadership to support causes such as global/domestic poverty relief and cancer/mental health care.
 
-I lead and support organisations in developing technical strategies and architectures focused on the outcome of high quality products that meet user needs. I’ve led teams in delivering dozens of successful technology projects. I do this through a variety of extreme programming, coaching, collaborative and agile techniques.
+I've worked with organisations such as the U.K. Government, BBC, Co-op, Booking.com, Gousto, Macmillan Cancer Care, and The Very Group, holding various roles including Director, Head of, Architect, Principal, Lead, and Engineer and have led teams of up to 70 people.
 
-I strongly believe in building autonomous teams around agile principles such as; situational awareness, incremental and continuous delivery, clean & test driven code, automation, simplicity and pragmatism.
+With 8 years of experience in engineering management, leadership, and coaching, including 4 years of direct first-line management and 4 years of first & second-line management, I am a well-rounded leader who has a track record of fostering people-focused cultures and delivering strategic digital transformations and iterative product development. I have served on senior leadership teams, operational management boards, and executive-level boards, driving results through a focus on diversity and inclusivity. 
 
-I have a wide range of public and private industry experience in travel, leisure, broadcast media, government, eCommerce, retail, co-operative and digital agencies.
+Commercially minded FinOps advocate. Having managing multi-million pound People/Cloud/Technology budgets, profit and loss accounts, timesheets and supplier invoicing/billing.
 
-I particularly specialise in:
+I am a hands-on leader and have been writing code for over 15 years. I have experience across multiple ecosystems, including TypeScript/JavaScript/React, Java, Swift, Lisp, AWS, GCP, and more. I enjoy using a variety of techniques such as User & Value-aligned strategy, Lean, XP, Agile, DDD, Event Storming, TDD, Ensemble Programming, Wardley Mapping, Serverless, and CQRS/EventSourcing to solve complex problems.
 
-- Leading teams to design and deliver high quality products
-- Leading the creation of strategic and engineering roadmaps
-- People management, building diversity, inclusivity and promoting wellbeing across organisations
-- Architecting and creating digital experiences - focusing on and driving end user needs through analytics and data
-- Designing and developing scalable, large, enterprise and application architectures
-- Integration and evolution of legacy applications into modern digital applications
-- New business/product development from MVP into mature, maintainable and well structured software/enterprise architectures
-- Business transformation (re-branding, re-launching & process improvement)
-- Designing mobile, web, game, cloud and data application architectures
-- Creating SRE, Team Topologies, Flow and DevOps cultures
-
-I have contributed to many open source projects and have various other interests including; agile, emerging software development techniques, client side frameworks, server side frameworks, relational/non-relational database systems, continuous integration/delivery, testing, version control & devops.
+I’m able to work across the spectrum of disciplines and seniority to lead teams and develop products, services, strategies, and cultures. I do this empathically, deeply understanding that if you get the people bit right, the technology will follow.

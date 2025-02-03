@@ -15,16 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hey, I'm Jake, a Director of Software Engineering with over 11 years of experience in Product Engineering, Data Engineering, and Quality Assurance. My passion is human-focused, situationally-aware leadership with a bias for data-driven action.
+Technology Leader with over a decade of experience working with brands such as LexisNexis, McKinsey & Company, Gousto, The Very Group, UK Government, BBC, The Co-op and Booking.com. 
 
-Alongside my professional career, I have a passion for giving back and serve on the boards of multiple registered charities, where I provide strategic and digital leadership to support causes such as global/domestic poverty relief and cancer/mental health care.
+A strategic, pragmatic and people focused leader with deeply rooted hands on software & data engineering background. I champion user centric, lean cultures of delivery that prioritise people, transparency and bias for action.
 
-I've worked with organisations such as the U.K. Government, BBC, Co-op, Booking.com, Gousto, Macmillan Cancer Care, and The Very Group, holding various roles including Director, Head of, Architect, Principal, Lead, and Engineer and have led teams of up to 70 people.
+My roots are in polyglot software engineering, across all sizes of web/cloud/data stacks. Java to JavaScript, Databricks to Snowflake, Lambda to Kubernetes. I’ve practised, coached and instilled all manner of true agile and XP practices, from pair/ensemble programming, TDD, CI & CD, data & metric informed iteration as well as discovery/alpha/beta product life cycles. I champion balancing risk against outcomes whilst fostering lean development practices with just enough governance. I have led DORA, SPACE, DataOps and CoE implementations to drive up delivery maturity across several organisations. Experienced in both high scale/high throughput environments as well as large enterprise technology systems. 
 
-With 8 years of experience in engineering management, leadership, and coaching, including 4 years of direct first-line management and 4 years of first & second-line management, I am a well-rounded leader who has a track record of fostering people-focused cultures and delivering strategic digital transformations and iterative product development. I have served on senior leadership teams, operational management boards, and executive-level boards, driving results through a focus on diversity and inclusivity. 
+I’ve managed $MM budgets, led leaders across several organisational levels, grown and built diverse teams creating world-class engineering capabilities, achieved daily releases in double digits, grown and sustained user bases in the millions, and efficiently handled data volumes in the petabytes. I have also led organisations through difficult periods of organisational right-sizing. 
 
-Commercially minded FinOps advocate. Having managing multi-million pound People/Cloud/Technology budgets, profit and loss accounts, timesheets and supplier invoicing/billing.
+Here are some of my key achievements so far:
 
-I am a hands-on leader and have been writing code for over 15 years. I have experience across multiple ecosystems, including TypeScript/JavaScript/React, Java, Swift, Lisp, AWS, GCP, and more. I enjoy using a variety of techniques such as User & Value-aligned strategy, Lean, XP, Agile, DDD, Event Storming, TDD, Ensemble Programming, Wardley Mapping, Serverless, and CQRS/EventSourcing to solve complex problems.
+- I course-corrected LexisNexis IPs Technology organisation, reducing overall expenditure by $3m whilst simultaneously driving up revenue, NPS, eNPS, Deployment Frequencies and driving down Change Failure Rates. Led a pivotal change in strategic technology direction, enabling two new core revenue drivers, Data as a Product and GenAI Product Workflows.
 
-I’m able to work across the spectrum of disciplines and seniority to lead teams and develop products, services, strategies, and cultures. I do this empathically, deeply understanding that if you get the people bit right, the technology will follow.
+- I headed AND Digital’s Manchester Engineering Practice, establishing a revenue trajectory from £300k to over £1m, hiring over 60 Engineers, aligning capability with local market demand and working closely with sales to land key clients. 
+
+- I established the UK Home Office Cloud Center of Excellence, centralising Cloud operations, building capability, uncovering trends, insights and cost opportunities which enabled over £1.5m in discounts and savings.
+
+- I led the BBC’s move to a sustainable App product architecture, relieving over £1m in cost whilst driving up deployment frequency and reliability increasing App Store ratings from a 3-star average to 4-star.
